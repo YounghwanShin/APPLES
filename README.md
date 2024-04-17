@@ -1,4 +1,5 @@
 # APPLES
-Apples society Github
+Apples Society </NL.py> team Github.
+We learn about python skills.
 
-python hands-on
+The Python Hands-On files will be uploded.
